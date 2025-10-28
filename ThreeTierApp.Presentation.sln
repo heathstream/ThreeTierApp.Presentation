@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeTierApp.Presentation", "ThreeTierApp.Presentation\ThreeTierApp.Presentation.csproj", "{9BE03F9E-8949-47FF-AA9D-8DB22A9D6F63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeTierApp.BusinessLogic", "..\ThreeTierApp.BusinessLogic\ThreeTierApp.BusinessLogic\ThreeTierApp.BusinessLogic.csproj", "{B9EEE273-BE30-175D-5C8F-9A1DB39E0250}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeTierApp.BusinessLogic", "ThreeTierApp.BusinessLogic\ThreeTierApp.BusinessLogic.csproj", "{754EE45E-D5FE-4E96-9FF0-31AF6F051044}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{9BE03F9E-8949-47FF-AA9D-8DB22A9D6F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BE03F9E-8949-47FF-AA9D-8DB22A9D6F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BE03F9E-8949-47FF-AA9D-8DB22A9D6F63}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B9EEE273-BE30-175D-5C8F-9A1DB39E0250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B9EEE273-BE30-175D-5C8F-9A1DB39E0250}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B9EEE273-BE30-175D-5C8F-9A1DB39E0250}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B9EEE273-BE30-175D-5C8F-9A1DB39E0250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754EE45E-D5FE-4E96-9FF0-31AF6F051044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754EE45E-D5FE-4E96-9FF0-31AF6F051044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754EE45E-D5FE-4E96-9FF0-31AF6F051044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754EE45E-D5FE-4E96-9FF0-31AF6F051044}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
