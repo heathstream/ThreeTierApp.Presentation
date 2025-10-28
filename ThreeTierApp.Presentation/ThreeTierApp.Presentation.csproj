@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ThreeTierApp.BusinessLogic\ThreeTierApp.BusinessLogic.csproj" />
+    <ProjectReference Include="..\ThreeTierApp.Data\ThreeTierApp.Data.csproj" />
   </ItemGroup>
 
 </Project>
