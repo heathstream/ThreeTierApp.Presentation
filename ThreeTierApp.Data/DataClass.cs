@@ -2,6 +2,9 @@
 {
     public class DataClass
     {
+        public void GimmeMoney()
+        {
 
+        }
     }
 }
