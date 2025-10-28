@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeTierApp.Presentation",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeTierApp.BusinessLogic", "ThreeTierApp.BusinessLogic\ThreeTierApp.BusinessLogic.csproj", "{754EE45E-D5FE-4E96-9FF0-31AF6F051044}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeTierApp.Data", "ThreeTierApp.Data\ThreeTierApp.Data.csproj", "{EA99EB7B-BB84-46EB-952D-9EACDFC60937}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{754EE45E-D5FE-4E96-9FF0-31AF6F051044}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{754EE45E-D5FE-4E96-9FF0-31AF6F051044}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{754EE45E-D5FE-4E96-9FF0-31AF6F051044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA99EB7B-BB84-46EB-952D-9EACDFC60937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA99EB7B-BB84-46EB-952D-9EACDFC60937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA99EB7B-BB84-46EB-952D-9EACDFC60937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA99EB7B-BB84-46EB-952D-9EACDFC60937}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
