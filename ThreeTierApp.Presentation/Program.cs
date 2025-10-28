@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var dataManager = new ThreeTierApp.Data.DataClass();
+
+            dataManager.GimmeMoney();
         }
     }
 }
