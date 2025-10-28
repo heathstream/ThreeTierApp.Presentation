@@ -6,8 +6,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ThreeTierApp.Data\ThreeTierApp.Data.csproj" />
-  </ItemGroup>
+ 
 
 </Project>
